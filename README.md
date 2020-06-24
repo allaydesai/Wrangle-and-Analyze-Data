@@ -59,17 +59,17 @@ Golden retrievers are by far the most popular breed followed by Labrador retriev
 
 The distribution of dog ratings numerator seems to be skewed to the right. Once again this is to be expected as dogs who are popular or have higher ratings are the ones who are frequently tweeted about.
 
-![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/rating.png)
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/images/rating.png)
 
 **Common Dog Name**
 
 It is quite interesting to observe the most common names of dogs being tweeted. The top 10 choices are pretty close with not much differentiate between them in terms of counts. One would have assumes certain names are way more common then others. But data shows that there is plenty of variety when it comes to name choice.
 
-![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/dog_name.png)
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/images/dog_name.png)
 
 **Relationship between Retweets and Favorites**
 
 We observe a strong positive trend between retweets count and favorite(like) counts. This is to be expected as most people who favorite a tweet tend to retweet it.
 
-![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/retweet.png)
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/images/retweet.png)
 
