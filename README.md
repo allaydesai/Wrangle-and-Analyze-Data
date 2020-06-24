@@ -41,4 +41,35 @@ Data was gathered from multiple sources:
   <li> Each tweet's entire set of JSON data in a file called tweet_json.txt aquired using tweet IDs in the WeRateDogs Twitter archive</li>
 </ul>
 
+### ANALYSIS
+
+**Total Tweet’s Over Time**
+
+Overall, there is a downward trend in number of tweets per month. There are few times when an increase in monthly tweets was observed. This seemed to happen between 2016-04 to 2016-10. A plausible reason for this decline could be due to emergence of new social media platforms.
+
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/images/tweet_count.png)
+
+**Popular Dog Breeds**
+
+Golden retrievers are by far the most popular breed followed by Labrador retriever and Pembroke. This is based on the number of times each dog was tweeted about.
+
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/images/breed.png)
+
+**Ratings Distribution**
+
+The distribution of dog ratings numerator seems to be skewed to the right. Once again this is to be expected as dogs who are popular or have higher ratings are the ones who are frequently tweeted about.
+
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/rating.png)
+
+**Common Dog Name**
+
+It is quite interesting to observe the most common names of dogs being tweeted. The top 10 choices are pretty close with not much differentiate between them in terms of counts. One would have assumes certain names are way more common then others. But data shows that there is plenty of variety when it comes to name choice.
+
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/dog_name.png)
+
+**Relationship between Retweets and Favorites**
+
+We observe a strong positive trend between retweets count and favorite(like) counts. This is to be expected as most people who favorite a tweet tend to retweet it.
+
+![alt text](https://github.com/allaydesai/Wrangle-and-Analyze-Data/blob/master/retweet.png)
 
